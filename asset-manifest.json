@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/groupomania-online/static/css/main.0b0e8fae.css",
+    "main.js": "/groupomania-online/static/js/main.1fe4310c.js",
+    "static/js/787.2ecd0f4f.chunk.js": "/groupomania-online/static/js/787.2ecd0f4f.chunk.js",
+    "static/media/icon-left-font-monochrome-black.svg": "/groupomania-online/static/media/icon-left-font-monochrome-black.19aa0a7c985187a122d3244aba7e11d0.svg",
+    "index.html": "/groupomania-online/index.html",
+    "main.0b0e8fae.css.map": "/groupomania-online/static/css/main.0b0e8fae.css.map",
+    "main.1fe4310c.js.map": "/groupomania-online/static/js/main.1fe4310c.js.map",
+    "787.2ecd0f4f.chunk.js.map": "/groupomania-online/static/js/787.2ecd0f4f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b0e8fae.css",
+    "static/js/main.1fe4310c.js"
+  ]
+}
